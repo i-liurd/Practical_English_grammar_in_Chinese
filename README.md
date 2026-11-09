@@ -15,5 +15,5 @@ this repository aim to teach the practical parts of English grammar in chinese. 
 虚拟语气
 形式主语
 分裂结构（强调句）
-逻辑主语（独立主格结构）
+逻辑主语（尤其是独立主格结构）
 其它内容敬请期待👍
