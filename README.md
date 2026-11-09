@@ -11,3 +11,4 @@ this repository aim to teach the practical parts of English grammar in chinese. 
 虚拟语气
 形式主语
 分裂结构（强调句）
+一些例题，进行分析与练习用。当然也会有一些极其恶心的题集录到这里
