@@ -2,7 +2,11 @@
 
 this repository aim to teach the practical parts of English grammar in chinese. it's expected to help readers have a basic understand on English grammar and build a framework. Also, I will try my best to explain these difficult parts about grammar rules and  practical usage. though you may be a beginner, I aim to help you to have a generally understood on English grammar. hope it helps. if any mistake here, PR to help me, Plz:)
 
-关于未来增添的内容：
+未来编写总体以完成对英语语法的基础体系讲解为先
+
+当然这里我会加入一些例题，进行分析与练习用。也会有一些极其恶心的题集录到这里。
+
+将会首先增添的内容：
 完成非谓语动词
 从句
 省略
@@ -11,4 +15,5 @@ this repository aim to teach the practical parts of English grammar in chinese. 
 虚拟语气
 形式主语
 分裂结构（强调句）
-一些例题，进行分析与练习用。当然也会有一些极其恶心的题集录到这里
+逻辑主语（独立主格结构）
+其它内容敬请期待👍
